@@ -137,7 +137,7 @@ def main():
             elif opcion == '5':
                 consultas_avanzadas(cursor)
             elif opcion == '6':
-                print("👋 ¡Hasta luego!")
+                print("👋 Gracias por el módulo!")
                 break
             else:
                 print("❗ Opción inválida. Intente de nuevo.")
